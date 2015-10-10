@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-```{r setoptions, echo=FALSE, results='hide', message=FALSE, warning=FALSE}
+```{r setoptions, echo=TRUE, results='hide', message=FALSE, warning=FALSE}
 library(knitr)
 library(plyr)
 library(lubridate)

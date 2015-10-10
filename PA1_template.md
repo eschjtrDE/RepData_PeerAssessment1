@@ -1,6 +1,14 @@
 # Reproducible Research: Peer Assessment 1
 
 
+```r
+library(knitr)
+library(plyr)
+library(lubridate)
+library(dplyr)
+library(lattice)
+opts_chunk$set(echo = TRUE, results = "markup")
+```
 
 
 ## Loading and preprocessing the data
